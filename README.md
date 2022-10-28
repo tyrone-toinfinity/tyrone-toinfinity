@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bobbywoody7@gmail.com**
 
-- 📄 Know about my experiences [https://bobbywoody.com/assets/Bobby_Woody_Resume.pdf](https://bobbywoody.com/assets/Bobby_Woody_Resume.pdf)
+- 📄 Know about my experiences [https://bobbywoody.com/assets/Bobby_Woody_Resume.pdf](bobbywoody.com/assets/Bobby_Woody_Resume.pdf)
 
 - ⚡ Fun fact **I love to run! 🏃🏽‍♂️**
 
