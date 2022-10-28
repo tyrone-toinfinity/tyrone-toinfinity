@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tyrone-toinfinity" alt="tyrone-toinfinity" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [bobbywoody.com](bobbywoody.com)
+- 👨‍💻 All of my projects are available at [[bobbywoody.com](bobbywoody.com)](https://bobbywoody.com/)
 
 - 💬 Ask me about **react!**
 
 - 📫 How to reach me **bobbywoody7@gmail.com**
 
-- 📄 Know about my experiences [https://bobbywoody.com/assets/Bobby_Woody_Resume.pdf](bobbywoody.com/assets/Bobby_Woody_Resume.pdf)
+- 📄 Know about my experiences [https://bobbywoody.com/assets/Bobby_Woody_Resume.pdf](https://bobbywoody.com/assets/Bobby_Woody_Resume.pdf)
 
 - ⚡ Fun fact **I love to run! 🏃🏽‍♂️**
 
