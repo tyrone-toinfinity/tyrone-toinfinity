@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Tyrone 🎨</h1>
-<h3 align="center">A Front End Developer! 👨🏽‍💻</h3>
+<h3 align="center">A Front End Developer! 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyrone-toinfinity&label=Profile%20views&color=0e75b6&style=flat" alt="tyrone-toinfinity" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tyrone-toinfinity" alt="tyrone-toinfinity" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [bobbywoody.com](https://bobbywoody.com/)
+- 👨🏽‍💻 All of my projects are available at [bobbywoody.com](https://bobbywoody.com/)
 
 - 💬 Ask me about **react!**
 
