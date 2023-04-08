@@ -7,7 +7,7 @@
 
 - 👨🏽‍💻 Check out my projects at [bobbywoody.com](https://bobbywoody.com/)
 
-- 💬 I specialize in **react!** Ask me anything about it.
+- 💬 I specialize in **React!** Ask me anything about it.
 
 - 📫 Contact me at **bobbywoody7@gmail.com**
 
