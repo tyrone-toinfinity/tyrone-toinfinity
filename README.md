@@ -30,4 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyrone-toinfinity&show_icons=true&locale=en" alt="tyrone-toinfinity" /></p>
 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" data-target="animated-image.originalLink"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyrone-toinfinity&" alt="tyrone-toinfinity" /></p>
