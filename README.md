@@ -33,7 +33,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyrone-toinfinity&" alt="tyrone-toinfinity" /></p>
 
 <div style="text-align: center;">
-    <a align="center" target="_blank" rel="noopener noreferrer" href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" data-target="animated-image.originalLink">
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" data-target="animated-image.originalLink">
         <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
     </a>
 </div>
