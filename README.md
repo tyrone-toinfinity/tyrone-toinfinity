@@ -11,7 +11,7 @@
 
 - 📫 Contact me at **bobbywoody7@gmail.com**
 
-- 📄 View my resume [here](https://bobbywoody.com/assets/Bobby_Woody_Software_Developer_Resume.pdf) to learn about my experiences.
+- 📄 View my resume [here]([https://bobbywoody.com/assets/Bobby_Woody_Software_Developer_Resume.pdf](https://drive.google.com/file/d/1l_mEShgVIqZKfgDs6TQsSTvAuNH1687T/view)) to learn about my experiences.
 
 - ⚡ Fun fact **I love to run! 🏃🏽‍♂️**
 
