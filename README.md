@@ -1,7 +1,7 @@
 
 <h1 align="center">Bobby Woody
   <br>
-<h2>Full Stack Developer</h2>
+Full Stack Developer
   <br>
   🛸
 </h1>
