@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tyrone-toinfinity&show_icons=true&locale=en" alt="tyrone-toinfinity"  height='200' width='100%'/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyrone-toinfinity&" alt="tyrone-toinfinity"  height='200' width='100%' />
