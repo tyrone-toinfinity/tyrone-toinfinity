@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,sass,mongodb,netlify,firebase,express,nodejs,tailwind,bootstrap,nextjs,vercel,webflow,vite,github,git,vscode,xd,ps,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,sass,mongodb,mysql,netlify,firebase,express,nodejs,tailwind,bootstrap,nextjs,vercel,webflow,vite,github,git,vscode,xd,ps,figma&theme=dark)](https://skillicons.dev)
 
 
 
