@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I love to run! 🏃🏽‍♂️**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://codepen.io/tyrone-for-the-win" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tyrone-for-the-win" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bobbywoody" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bobbywoody" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19118150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19118150" height="30" width="40" /></a>
@@ -28,7 +28,7 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyrone-toinfinity&show_icons=true&locale=en&layout=compact" alt="tyrone-toinfinity" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyrone-toinfinity&show_icons=true&locale=en&layout=compact" alt="tyrone-toinfinity" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyrone-toinfinity&show_icons=true&locale=en" alt="tyrone-toinfinity" /></p>
 
