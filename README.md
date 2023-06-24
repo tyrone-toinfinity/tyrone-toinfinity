@@ -1,5 +1,9 @@
-<h1 align="center">Bobby Woody 🛸</h1>
-<h3 align="center">Full Stack Developer 💻</h3>
+
+<h1 align="center">Bobby Woody 🛸
+  <br>
+Full Stack Developer 💻
+</h1>
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tyrone-toinfinity&label=Profile%20views&color=0e75b6&style=flat" alt="tyrone-toinfinity" /> </p>
 
