@@ -24,11 +24,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/tyrone-for-the-win" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tyrone-for-the-win" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bobbywoody" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bobbywoody" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19118150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19118150" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bobbywoody7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bobbywoody7" height="30" width="40" /></a>
+  <a href="https://codepen.io/tyrone-for-the-win" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tyrone-for-the-win" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/bobby-woody" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bobbywoody" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/19118150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19118150" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/bobbywoody7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bobbywoody7" height="30" width="40" /></a>
 </p>
+
+---
+
 
 
 
