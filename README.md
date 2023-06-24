@@ -38,7 +38,7 @@
 
 <div style="text-align: center;">
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" data-target="animated-image.originalLink">
-        <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+        <img alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true](https://github.com/tyrone-toinfinity/Web-Dev-Portfolio/blob/master/src/assets/starwars.jpg?raw=true)" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
     </a>
 </div>
 
