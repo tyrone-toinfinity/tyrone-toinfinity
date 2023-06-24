@@ -30,9 +30,10 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tyrone-toinfinity&show_icons=true&locale=en" alt="tyrone-toinfinity"  height='200' />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyrone-toinfinity&" alt="tyrone-toinfinity"  height='200' />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tyrone-toinfinity&show_icons=true&locale=en&layout=compact" alt="tyrone-toinfinity" height='200' />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyrone-toinfinity&" alt="tyrone-toinfinity"  height='200' />
+
 </p>
 
 
