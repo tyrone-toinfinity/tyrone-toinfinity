@@ -11,7 +11,7 @@ Full Stack Developer
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tyrone-toinfinity&theme=dracula&column=3&margin-w=15&margin-h=15" alt="tyrone-toinfinity"  /></a> </p>
 
-- 👨🏽‍💻 Check out my projects at [bobbywoody.com](https://bobbywoody.com/)
+- 👨🏽‍💻 Check out my portfolio at [bobbywoody.com](https://bobbywoody.com/)
 
 - 💬 I specialize in **React!** Ask me anything about it.
 
