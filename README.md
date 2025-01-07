@@ -17,8 +17,6 @@ Full Stack Web Developer
 
 - 📫 Contact me at **bobbywoody7@gmail.com**
 
-- 📄 View my resume [here](https://drive.google.com/file/d/1l_mEShgVIqZKfgDs6TQsSTvAuNH1687T/view) to learn about my experiences.
-
 - ⚡ Fun fact **I love to run! 🏃🏽‍♂️**
 
 <h3 align="left">Languages and Tools:</h3>
