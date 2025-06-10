@@ -48,10 +48,4 @@ Full Stack Web Developer
 </p>
 
 
-<div style="text-align: center;">
-  <a target="_blank" rel="noopener noreferrer" href=https://www.youtube.com/watch?v=FJTz-ahXyyI&ab_channel=AWESOMEMOVIECLIPS" data-target="animated-image.originalLink">
-    <img alt="GIF" src="https://github.com/tyrone-toinfinity/Web-Dev-Portfolio/blob/master/src/assets/starwars.jpg?raw=true"  style=" max-width: 100%; display: block;" data-target="animated-image.originalImage"/>
-  </a>
-</div>
-
 
